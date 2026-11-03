@@ -1,52 +1,80 @@
-# Abdhesh Kumar Mishra
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Abdhesh Kumar Mishra — Mid-Level Software Developer" width="100%" />
+</div>
 
-### Mid-Level Software Developer | .NET Core · C# · REST APIs · React.js
+<h1 align="center">Abdhesh Kumar Mishra</h1>
+<h3 align="center">Mid-Level Software Developer | .NET Core · C# · API Integration · React.js</h3>
 
-Software developer with **5+ years of experience** building, integrating, and supporting business applications, primarily in the banking domain. I work across backend development, API integrations, database design, troubleshooting, and application delivery.
-
-I enjoy turning business requirements into reliable, maintainable software and collaborating with teams to solve practical problems.
+<p align="center">
+  <a href="mailto:abdheshmishraa@gmail.com">Email</a> ·
+  <a href="https://github.com/11616633">GitHub</a>
+</p>
 
 ---
+
+## Professional Summary
+
+Software developer with **5+ years of experience** building, integrating, and supporting business applications, primarily in the banking domain. Experienced in backend development, REST API integration, relational database design, troubleshooting, and application delivery.
+
+I enjoy translating business requirements into reliable, maintainable software and collaborating with teams to solve practical problems. I am interested in contributing to impactful digital services and continuously improving my engineering skills.
 
 ## Technical Skills
 
 | Area | Technologies |
 |---|---|
-| Backend | C#, .NET Core, ASP.NET MVC Core, ASP.NET Web API |
-| Frontend | React.js, JavaScript, HTML, CSS, Bootstrap |
-| Databases | Microsoft SQL Server, PostgreSQL |
-| APIs & Integration | REST APIs, third-party integration, BPM integration, XML processing |
-| DevOps & Delivery | Git, GitHub, Docker, CI/CD, application hosting and deployment |
-| Data | Data engineering fundamentals, data warehouse, data lake |
-| Engineering Practices | Debugging, testing, query optimization, documentation, production support |
+| **Backend** | C#, .NET Core, ASP.NET MVC Core, ASP.NET Web API |
+| **Frontend** | React.js, JavaScript, HTML5, CSS3, Bootstrap |
+| **Databases** | Microsoft SQL Server, PostgreSQL |
+| **API & Integration** | REST APIs, third-party integration, BPM integration, XML processing |
+| **DevOps & Delivery** | Git, GitHub, Docker, CI/CD, application hosting and deployment |
+| **Data** | Data engineering fundamentals, data warehouse, data lake |
+| **Engineering Practices** | Debugging, testing, query optimization, documentation, production support |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,postgres,git,docker" alt="Technology skills" />
+</p>
 
 ## Selected Project Experience
 
-My professional experience includes developing and supporting enterprise applications for transaction processing, settlement and reconciliation, deposit reporting, loan workflows, tracking, and system integration.
+My professional experience includes developing and supporting enterprise applications in areas such as:
 
-Some of this work was completed in an employer environment. Its source code and implementation details are therefore not published here.
+- Transaction processing, card and POS settlement
+- Reconciliation and financial reporting
+- Deposit reporting and loan-related workflows
+- Document tracking and business process automation
+- Data exchange, XML conversion, and system integration
+
+Some of this work was completed in employer environments. Its source code, data, and implementation details are not published here.
 
 ### Personal Full-Stack Projects
 
-- **Bus Ticket Booking Application** — React.js frontend, .NET Web API backend, and PostgreSQL database.
-- **Pharmacy Billing Application** — React.js frontend, .NET Web API backend, and PostgreSQL database.
+- **Bus Ticket Booking Application** — Full-stack booking application using a React.js frontend, .NET Web API backend, and PostgreSQL database.
+- **Pharmacy Billing Application** — Billing application using a React.js frontend, .NET Web API backend, and PostgreSQL database.
 
 These projects reflect my interest in building practical, database-driven applications across the full stack.
 
-## What I Focus On
+## What I Bring
 
 - Building maintainable backend services and REST APIs
 - Integrating applications and exchanging data reliably
-- Designing and working with relational databases
+- Designing relational databases and writing efficient SQL queries
 - Troubleshooting issues and supporting applications in production
-- Learning modern development and delivery practices
+- Working with cross-functional teams to deliver business requirements
+- Learning modern development, deployment, and data practices
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=11616633&show_icons=true&hide_border=true&theme=transparent" alt="GitHub profile statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11616633&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
+</p>
 
 ## Let's Connect
 
-- **GitHub:** [github.com/11616633](https://github.com/11616633)
 - **Email:** [abdheshmishraa@gmail.com](mailto:abdheshmishraa@gmail.com)
+- **GitHub:** [github.com/11616633](https://github.com/11616633)
 - **Location:** Kathmandu, Nepal
 
 ---
 
-*Building practical software solutions, improving continuously, and contributing as part of a team.*
+<p align="center"><i>Building practical software solutions, improving continuously, and contributing as part of a team.</i></p>
