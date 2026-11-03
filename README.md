@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:abdheshmishraa@gmail.com">Email</a> ·
-  <a href="https://github.com/11616633">GitHub</a>
+  <a href="https://github.com/abdheshmishra">GitHub</a>
 </p>
 
 ---
@@ -65,14 +65,14 @@ These projects reflect my interest in building practical, database-driven applic
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11616633&show_icons=true&hide_border=true&theme=transparent" alt="GitHub profile statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11616633&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdheshmishra&show_icons=true&hide_border=true&theme=transparent" alt="GitHub profile statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdheshmishra&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
 </p>
 
 ## Let's Connect
 
 - **Email:** [abdheshmishraa@gmail.com](mailto:abdheshmishraa@gmail.com)
-- **GitHub:** [github.com/11616633](https://github.com/11616633)
+- **GitHub:** [github.com/abdheshmishra](https://github.com/abdheshmishra)
 - **Location:** Kathmandu, Nepal
 
 ---
