@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Abdhesh Kumar Mishra — Software Developer</title>
+<desc id="desc">A navy and blue technology banner with abstract code and data motifs.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset=".58" stop-color="#102e55"/><stop offset="1" stop-color="#071426"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#6ea8fe" stroke-opacity=".10" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="#38bdf8" stroke-opacity=".2" stroke-width="2">
+  <path d="M760 0L920 160 1200 160M830 0L990 160M920 0L1080 160M1010 0L1170 160"/>
+  <path d="M0 238H220L270 188H420M0 270H170L220 220H380"/>
+  <circle cx="1030" cy="215" r="100"/><circle cx="1030" cy="215" r="72"/><circle cx="1030" cy="215" r="44"/>
+</g>
+<g transform="translate(72 75)" fill="none" stroke="url(#glow)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M54 12L12 72 54 132M146 12L188 72 146 132M122 0L78 144"/>
+</g>
+<text x="315" y="112" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Abdhesh Kumar Mishra</text>
+<text x="318" y="164" fill="#bfdbfe" font-family="Arial,Helvetica,sans-serif" font-size="25">Mid-Level Software Developer</text>
+<text x="318" y="211" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="19">.NET Core  •  C#  •  API Integration  •  React.js  •  SQL</text>
+<path d="M318 238H710" stroke="url(#glow)" stroke-width="5" stroke-linecap="round"/>
+<text x="318" y="272" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">BUILD  ·  INTEGRATE  ·  DELIVER</text>
+<g fill="#93c5fd" font-family="monospace" font-size="15" opacity=".8"><text x="880" y="75">01 / API</text><text x="880" y="102">02 / DATA</text><text x="880" y="129">03 / CLOUD</text></g>
+</svg>
