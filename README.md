@@ -1,75 +1,81 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Abdhesh Kumar Mishra — Mid-Level Software Developer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Abdhesh Kumar Mishra | Mid-Level Software Developer" width="100%" />
 </div>
 
 <h1 align="center">Abdhesh Kumar Mishra</h1>
-<h3 align="center">Mid-Level Software Developer | .NET Core · C# · API Integration · React.js</h3>
+<h3 align="center">Software Developer | .NET Core • C# • React.js • API Integration</h3>
 
 <p align="center">
   <a href="mailto:abdheshmishraa@gmail.com">Email</a> ·
-  <a href="https://github.com/abdheshmishra">GitHub</a>
+  <a href="https://github.com/abdheshmishra">GitHub</a> ·
+  Kathmandu, Nepal
 </p>
 
 ---
 
-## Professional Summary
+## Professional Profile
 
-Software developer with **5+ years of experience** building, integrating, and supporting business applications, primarily in the banking domain. Experienced in backend development, REST API integration, relational database design, troubleshooting, and application delivery.
+Software Developer with **5+ years of experience** designing, developing, integrating, and supporting business applications, with a strong background in the **banking and financial services domain**.
 
-I enjoy translating business requirements into reliable, maintainable software and collaborating with teams to solve practical problems. I am interested in contributing to impactful digital services and continuously improving my engineering skills.
+My core strengths are backend development with C# and .NET, REST API integration, SQL database development, troubleshooting, and delivering reliable application changes. I also work with React.js and modern development and deployment practices to build end-to-end solutions.
+
+I value clean, maintainable code, practical problem-solving, collaboration, and continuous learning.
 
 ## Technical Skills
 
-| Area | Technologies |
+| Focus | Technologies |
 |---|---|
-| **Backend** | C#, .NET Core, ASP.NET MVC Core, ASP.NET Web API |
-| **Frontend** | React.js, JavaScript, HTML5, CSS3, Bootstrap |
-| **Databases** | Microsoft SQL Server, PostgreSQL |
-| **API & Integration** | REST APIs, third-party integration, BPM integration, XML processing |
-| **DevOps & Delivery** | Git, GitHub, Docker, CI/CD, application hosting and deployment |
-| **Data** | Data engineering fundamentals, data warehouse, data lake |
-| **Engineering Practices** | Debugging, testing, query optimization, documentation, production support |
+| **Backend Development** | C#, .NET Core, ASP.NET Core MVC, ASP.NET Web API |
+| **Frontend Development** | React.js, JavaScript, HTML5, CSS3, Bootstrap |
+| **Databases** | Microsoft SQL Server, PostgreSQL, SQL query optimization |
+| **APIs & Integration** | REST APIs, third-party integration, BPM integration, XML processing |
+| **DevOps & Deployment** | Git, GitHub, Docker, CI/CD fundamentals, hosting and deployment |
+| **Data Technologies** | Data engineering fundamentals, data warehouses, data lakes |
+| **Delivery & Support** | Debugging, testing, documentation, production support, issue analysis |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,postgres,git,docker" alt="Technology skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,bootstrap,postgres,git,docker" alt="C sharp, .NET, React, JavaScript, HTML, CSS, Bootstrap, PostgreSQL, Git and Docker" />
 </p>
 
-## Selected Project Experience
+## Domain & Project Experience
 
-My professional experience includes developing and supporting enterprise applications in areas such as:
+Experience developing and supporting business applications and workflows in areas including:
 
-- Transaction processing, card and POS settlement
-- Reconciliation and financial reporting
+- Card, POS, and financial transaction processing
+- Settlement, reconciliation, and financial reporting
 - Deposit reporting and loan-related workflows
 - Document tracking and business process automation
-- Data exchange, XML conversion, and system integration
+- XML-based data exchange and application integration
 
-Some of this work was completed in employer environments. Its source code, data, and implementation details are not published here.
+Professional projects were developed in employer environments. Their source code, production data, and confidential implementation details are not published in this profile.
 
-### Personal Full-Stack Projects
+## Personal Development Projects
 
-- **Bus Ticket Booking Application** — Full-stack booking application using a React.js frontend, .NET Web API backend, and PostgreSQL database.
-- **Pharmacy Billing Application** — Billing application using a React.js frontend, .NET Web API backend, and PostgreSQL database.
+**Bus Ticket Booking Application**  
+A full-stack application concept focused on online bus search and ticket booking, using React.js, .NET Web API, and PostgreSQL.
 
-These projects reflect my interest in building practical, database-driven applications across the full stack.
+**Pharmacy Billing Application**  
+A full-stack billing application using React.js, .NET Web API, and PostgreSQL.
 
-## What I Bring
+These projects demonstrate my interest in building practical, database-driven applications and strengthening my full-stack development skills.
 
-- Building maintainable backend services and REST APIs
-- Integrating applications and exchanging data reliably
-- Designing relational databases and writing efficient SQL queries
-- Troubleshooting issues and supporting applications in production
-- Working with cross-functional teams to deliver business requirements
-- Learning modern development, deployment, and data practices
+## Engineering Approach
 
-## GitHub Activity
+- Build maintainable backend services and well-structured REST APIs
+- Design relational data models and write efficient SQL queries
+- Integrate systems and handle data exchange reliably
+- Investigate defects, troubleshoot production issues, and deliver fixes
+- Collaborate with business and technical teams to translate requirements into working solutions
+- Keep learning modern frontend, DevOps, and data engineering practices
+
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdheshmishra&show_icons=true&hide_border=true&theme=transparent" alt="GitHub profile statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdheshmishra&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdheshmishra&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdheshmishra&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
 </p>
 
-## Let's Connect
+## Contact
 
 - **Email:** [abdheshmishraa@gmail.com](mailto:abdheshmishraa@gmail.com)
 - **GitHub:** [github.com/abdheshmishra](https://github.com/abdheshmishra)
@@ -77,4 +83,4 @@ These projects reflect my interest in building practical, database-driven applic
 
 ---
 
-<p align="center"><i>Building practical software solutions, improving continuously, and contributing as part of a team.</i></p>
+<p align="center"><i>Building reliable software, connecting systems, and continuously growing as an engineer.</i></p>
